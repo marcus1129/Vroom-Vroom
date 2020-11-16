@@ -4,6 +4,6 @@ using namespace std;
 
 int main()
 {
-    cout << "Hello world!" << endl;
+    cout << "KORRE IS MASSIVE PP" << endl;
     return 0;
 }
